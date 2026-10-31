@@ -1,0 +1,7 @@
+# ninja log v5
+2	168	1793302183986179021	CMakeFiles/security.dir/security.c.o	829b2c80496378f2
+0	187	1793302184005179022	CMakeFiles/renexamc.dir/crashguard.c.o	e389fd1be2e84985
+168	206	1793302184023179023	/workspaces/-/RenexaMC/build/intermediates/cxx/RelWithDebInfo/5711u1i3/obj/arm64-v8a/libsecurity.so	bebbf81524c9e596
+187	211	1793302184029179023	/workspaces/-/RenexaMC/build/intermediates/cxx/RelWithDebInfo/5711u1i3/obj/arm64-v8a/librenexamc.so	5f24d9981d37ff5f
+90	7253	1793315516295284147	/workspaces/-/RenexaMC/build/intermediates/cxx/RelWithDebInfo/5711u1i3/obj/arm64-v8a/librenexamc.so	5f24d9981d37ff5f
+94	7254	1793315516365284143	/workspaces/-/RenexaMC/build/intermediates/cxx/RelWithDebInfo/5711u1i3/obj/arm64-v8a/libsecurity.so	bebbf81524c9e596

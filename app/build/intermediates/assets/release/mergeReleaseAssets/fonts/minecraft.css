@@ -1,0 +1,12 @@
+/* Minecraft font - loaded from a separate file, not embedded in the HTML.
+   The font has Latin glyphs only; Arabic text falls back to Tajawal. */
+@font-face {
+    font-family: 'MinecraftDefault';
+    src: url('MinecraftDefault-Bold.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+html body, button, input, textarea, select {
+    font-family: 'MinecraftDefault', 'Tajawal', sans-serif;
+}

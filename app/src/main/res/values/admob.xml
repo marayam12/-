@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AdMob: RenexaMC (account ids) -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-5893083624926463~4686371885</string>
+    <string name="admob_rewarded_unit_id" translatable="false">ca-app-pub-5893083624926463/2434689623</string>
+
+    <!--
+      Google's official TEST rewarded unit (shows test ads, safe for your own phone).
+      Set admob_use_test_ads to true while you test on your own device: clicking real ads
+      on your own phone can get an AdMob account suspended.
+    -->
+    <string name="admob_test_rewarded_unit_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <bool name="admob_use_test_ads">false</bool>
+</resources>

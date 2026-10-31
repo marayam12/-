@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="admob_use_test_ads">false</bool>
+    <color name="ic_launcher_background">#0B0F19</color>
+    <string name="admob_app_id" translatable="false">ca-app-pub-5893083624926463~4686371885</string>
+    <string name="admob_rewarded_unit_id" translatable="false">ca-app-pub-5893083624926463/2434689623</string>
+    <string name="admob_test_rewarded_unit_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="app_name">RenexaMC</string>
+    <string name="home_2fa">🔐 التوثيق الثنائي</string>
+    <string name="home_admin">🛡️ لوحة الإدارة</string>
+    <string name="home_badges">🏅 الأوسمة والألقاب</string>
+    <string name="home_chat">💬 محادثة مع لاعب</string>
+    <string name="home_coins">الكوينز</string>
+    <string name="home_crates">🎁 صناديق الحظ</string>
+    <string name="home_daily">📅 المكافآت اليومية</string>
+    <string name="home_friends">👥 الأصدقاء</string>
+    <string name="home_gold">الذهب</string>
+    <string name="home_language_toggle">EN</string>
+    <string name="home_leaderboard">🏆 قائمة المتصدرين</string>
+    <string name="home_logout">تسجيل خروج</string>
+    <string name="home_market">🛒 السوق</string>
+    <string name="home_notifications">🔔 الإشعارات</string>
+    <string name="home_profile">📝 تعديل الملف الشخصي</string>
+    <string name="home_ranks">👑 شراء رتبة</string>
+    <string name="home_wardrobe">👕 رفع سكن / كيب</string>
+    <string name="home_wishlist">❤️ قائمة الأمنيات</string>
+    <string name="login_2fa_hint">كود التوثيق الثنائي</string>
+    <string name="login_admin_password_hint">كلمة سر الإدارة</string>
+    <string name="login_bedrock">Bedrock</string>
+    <string name="login_button">دخول</string>
+    <string name="login_ely">Ely.by</string>
+    <string name="login_java">Java</string>
+    <string name="login_microsoft">Microsoft</string>
+    <string name="login_sklauncher">Sklauncher</string>
+    <string name="login_username_hint">اسم اللاعب</string>
+    <style name="Theme.RenexaMC" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0b0f19</item>
+        <item name="android:windowBackground">#0b0f19</item>
+    </style>
+</resources>

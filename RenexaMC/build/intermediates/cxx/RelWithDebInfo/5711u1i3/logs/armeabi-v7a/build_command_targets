@@ -1,0 +1,5 @@
+/home/codespace/android-sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /workspaces/-/RenexaMC/.cxx/RelWithDebInfo/5711u1i3/armeabi-v7a \
+  renexamc \
+  security

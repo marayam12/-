@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/drawable_world_icon.png.flat",
+        "source": "com.renexamc.app-main-47:/drawable/world_icon.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/drawable_sound_off.png.flat",
+        "source": "com.renexamc.app-main-47:/drawable/sound_off.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/drawable_sound_on.png.flat",
+        "source": "com.renexamc.app-main-47:/drawable/sound_on.png"
+    },
+    {
+        "merged": "com.renexamc.app-release-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.renexamc.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

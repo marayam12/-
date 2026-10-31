@@ -1,0 +1,7 @@
+com.renexamc.lib-pngs-0 /workspaces/-/RenexaMC/build/generated/res/pngs/release
+com.renexamc.lib-resValues-1 /workspaces/-/RenexaMC/build/generated/res/resValues/release
+com.renexamc.lib-mergeReleaseResources-2 /workspaces/-/RenexaMC/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.renexamc.lib-mergeReleaseResources-3 /workspaces/-/RenexaMC/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.renexamc.lib-release-4 /workspaces/-/RenexaMC/build/intermediates/merged_res/release/mergeReleaseResources
+com.renexamc.lib-main-5 /workspaces/-/RenexaMC/src/main/res
+com.renexamc.lib-release-6 /workspaces/-/RenexaMC/src/release/res

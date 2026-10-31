@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/workspaces/-/RenexaMC/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/codespace/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/workspaces/-/RenexaMC/.cxx/RelWithDebInfo/5711u1i3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/codespace/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/workspaces/-/RenexaMC/.cxx/RelWithDebInfo/5711u1i3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "security::@6890427a1f51a3e7e1df": {
+      "artifactName": "security",
+      "abi": "x86",
+      "output": "/workspaces/-/RenexaMC/build/intermediates/cxx/RelWithDebInfo/5711u1i3/obj/x86/libsecurity.so",
+      "runtimeFiles": []
+    },
+    "renexamc::@6890427a1f51a3e7e1df": {
+      "artifactName": "renexamc",
+      "abi": "x86",
+      "output": "/workspaces/-/RenexaMC/build/intermediates/cxx/RelWithDebInfo/5711u1i3/obj/x86/librenexamc.so",
+      "runtimeFiles": []
+    }
+  }
+}

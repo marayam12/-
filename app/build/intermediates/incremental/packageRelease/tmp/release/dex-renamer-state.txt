@@ -1,0 +1,10 @@
+#Sat Oct 31 13:37:38 UTC 2026
+base.2=/workspaces/-/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.2=classes2.dex
+base.1=/workspaces/-/app/build/intermediates/global_synthetics_dex/release/mergeReleaseGlobalSynthetics/classes.dex
+path.1=classes.dex
+base.0=/workspaces/-/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

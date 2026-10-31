@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.renexamc.lib" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+7-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:4:5-77
+7-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:4:22-74
+8    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+8-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:5:5-89
+8-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:5:22-86
+9    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+9-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:6:5-95
+9-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:6:22-92
+10
+11    <application>
+11-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:8:5-17:19
+12        <service
+12-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:9:9-16:19
+13            android:name="com.renexamc.lib.KeepAliveService"
+13-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:10:13-61
+14            android:exported="false"
+14-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:11:13-37
+15            android:foregroundServiceType="specialUse" >
+15-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:12:13-55
+16            <property
+16-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:13:13-15:99
+17                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+17-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:14:17-76
+18                android:value="Keeps RenexaMC chat and notifications running in the background" />
+18-->/workspaces/-/RenexaMC/src/main/AndroidManifest.xml:15:17-96
+19        </service>
+20    </application>
+21
+22</manifest>
